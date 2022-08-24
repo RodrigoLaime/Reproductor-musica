@@ -1,0 +1,154 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(255, 0, 0);
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(130deg, rgb(230, 248, 129), rgb(1, 38, 204));
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+    width: 100%;
+    height: 15%;
+    /* background-color: purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards {
+    width: 100%;
+    height: 50%;
+    /* background-color: firebrick; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards .portada{
+    width: 250px;
+    height: 250px;
+    background-image: url('https://sss.planeta.pe/imagen/4x3/boywithuke-dc508.jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 12px;
+    box-shadow: 9px 9px 16px #b3b3b3, -9px -9px 16px #ffffff;
+}
+/*main*/
+.progress-bar{
+    height: 30%;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.album{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tempo{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10vw;
+}
+.player__level{
+    width: 80%;
+    margin-top: 40px;
+}
+/*footer*/
+.footer{
+    height: 10%;
+    width: 100%;
+}
+.buttons{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* https://www.youtube.com/watch?v=dBlr5gYeGAc */
